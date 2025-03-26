@@ -18,5 +18,8 @@ It helps track **energy consumption, detect overloads, and optimize efficiency**
 **Code:** C++ (Arduino)  
 
 This system is ideal for **developers, students, and industrial engineers** looking to enhance energy efficiency and reduce costs.  
+## Live Simulation 🎮
+Experience the system in action using the Tinkercad simulation:  
+👉 [Click here to view the simulation](https://www.tinkercad.com/things/l6BWR0Tv5GN/editel)
 
 🔗 **Contribute & improve this project!** 🚀  
