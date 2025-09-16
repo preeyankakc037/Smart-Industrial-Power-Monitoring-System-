@@ -20,6 +20,6 @@ It helps track **energy consumption, detect overloads, and optimize efficiency**
 This system is ideal for **developers, students, and industrial engineers** looking to enhance energy efficiency and reduce costs.  
 ## Live Simulation 🎮
 Experience the system in action using the Tinkercad simulation:  
-👉 [Click here to view the simulation](https://www.tinkercad.com/things/l6BWR0Tv5GN/editel)
+https://www.tinkercad.com/things/l1RVa9vnTe4-smart-industrial-power-monitoring-system-?sharecode=ItFM3LfnAMlWW-2DYcEFUea6Ta8g57FsB5Uq47uc5ZU
 
 🔗 **Contribute & improve this project!** 🚀  
