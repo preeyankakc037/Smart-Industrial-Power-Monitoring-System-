@@ -1,4 +1,6 @@
 # Smart Industrial Power Monitoring System ⚡🏭  
+<img width="1275" height="746" alt="image" src="https://github.com/user-attachments/assets/89052351-e3c3-4f47-81a3-206965e23a52" />
+
 
 The **Smart Industrial Power Monitoring System** is an **Arduino-based** real-time power monitoring solution designed for industrial environments.  
 It helps track **energy consumption, detect overloads, and optimize efficiency** to reduce power waste and improve reliability.  
